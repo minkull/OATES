@@ -7,7 +7,7 @@ This repository contains OATES code used in the following paper:
 
 MINKU, L.L. Multi-Stream Online Transfer Learning For Software Effort Estimation -- Is It Necessary? International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE) 2021.
 
-It is released under GNU General Public License version 3.0 (GPLv3). It also makes use of the third party MOA Release 2016.04, whose code and dependencies are available in moa-2016.04-sources.jar. The license for MOA Release 2016.04 is GNU General Public License version 3.0 (GPLv3). The licenses of its dependencies can be found within the moa-2016.04-sources.jar file.
+It is released under [GNU General Public License version 3.0 (GPLv3)](license-gpl-3.0.txt). It also makes use of the third party MOA Release 2016.04, whose code and dependencies are available in moa-2016.04-sources.jar. The license for MOA Release 2016.04 is GNU General Public License version 3.0 (GPLv3). The licenses of its dependencies can be found within the moa-2016.04-sources.jar file.
 
 To use OATES implementation, you need to use the following classes together with MOA-2016.04's code:
 
