@@ -1,6 +1,6 @@
 
 ************************************************************
-* OATES -- Online Multi-Stream Transfer Effort Estimator   *
+OATES -- Online Multi-Stream Transfer Effort Estimator
 ************************************************************
 
 This repository contains OATES code used in the following paper:
