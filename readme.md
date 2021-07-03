@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/382634477.svg)](https://zenodo.org/badge/latestdoi/382634477)
 
 ************************************************************
 OATES -- Online Multi-Stream Transfer Effort Estimator
